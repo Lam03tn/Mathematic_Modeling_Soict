@@ -1,0 +1,120 @@
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-02 lần 1/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 15.4 s
+setA-02 lần 2/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 10.1 s
+setA-02 lần 3/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 3.8 s
+setA-02 lần 4/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 8.4 s
+setA-02 lần 5/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 4.6 s
+setA-02 lần 6/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 16.4 s
+setA-02 lần 7/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 14.5 s
+setA-02 lần 8/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 33.7 s
+setA-02 lần 9/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 10.6 s
+setA-02 lần 10/10: OPTIMAL, best = 0.5486, gap = 0.0, optimize! = 47.5 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-03 lần 1/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 10.6 s
+setA-03 lần 2/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 30.3 s
+setA-03 lần 3/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 42.6 s
+setA-03 lần 4/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 17.2 s
+setA-03 lần 5/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 20.2 s
+setA-03 lần 6/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 25.4 s
+setA-03 lần 7/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 76.9 s
+setA-03 lần 8/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 20.6 s
+setA-03 lần 9/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 16.2 s
+setA-03 lần 10/10: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 74.3 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-04 lần 1/5: TIME_LIMIT, best = NaN, gap = NaN, optimize! = 1803.2 s
+setA-04 lần 2/5: TIME_LIMIT, best = NaN, gap = NaN, optimize! = 1816.2 s
+setA-04 lần 3/5: TIME_LIMIT, best = 0.5488, gap = 0.1635, optimize! = 1801.0 s
+setA-04 lần 4/5: TIME_LIMIT, best = NaN, gap = NaN, optimize! = 1804.0 s
+setA-04 lần 5/5: TIME_LIMIT, best = NaN, gap = NaN, optimize! = 1806.9 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-05 lần 1/5: TIME_LIMIT, best = 0.1643, gap = 0.2968, optimize! = 3118.6 s
+setA-05 lần 2/5: TIME_LIMIT, best = NaN, gap = NaN, optimize! = 1952.9 s
+setA-05 lần 3/5: TIME_LIMIT, best = NaN, gap = NaN, optimize! = 2163.3 s
+setA-05 lần 4/5: TIME_LIMIT, best = 0.1656, gap = 0.3026, optimize! = 3168.1 s
+setA-05 lần 5/5: TIME_LIMIT, best = NaN, gap = NaN, optimize! = 2253.2 s

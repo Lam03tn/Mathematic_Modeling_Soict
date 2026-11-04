@@ -1,0 +1,103 @@
+MIP has 10496 rows; 1000001 cols; 7334396 nonzeros; 1000000 integer variables (990000 binary)
+Coefficient ranges:
+  Matrix  [5e-04, 2e+01]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 2e+00]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+10496 rows, 990001 cols, 7334396 nonzeros 5s
+   Considered 392 / 989803 binaries; 392 probed  (rate 12/ms => expected probing finish time 12696s) 56s
+   Considered 795 / 989803 binaries; 795 probed  (rate 12/ms => expected probing finish time 12522s) 61s
+   Considered 1203 / 989803 binaries; 1203 probed  (rate 12/ms => expected probing finish time 12411s) 66s
+   Considered 1622 / 989803 binaries; 1622 probed  (rate 12/ms => expected probing finish time 12271s) 71s
+   Considered 2050 / 989803 binaries; 2050 probed  (rate 12/ms => expected probing finish time 12136s) 76s
+   Considered 2489 / 989803 binaries; 2489 probed  (rate 12/ms => expected probing finish time 11994s) 81s
+   Considered 456 / 987254 binaries; 456 probed  (rate 10/ms => expected probing finish time 10962s) 125s
+   Considered 913 / 987254 binaries; 913 probed  (rate 10/ms => expected probing finish time 10948s) 130s
+   Considered 1379 / 987254 binaries; 1379 probed  (rate 10/ms => expected probing finish time 10873s) 135s
+   Considered 1867 / 987254 binaries; 1867 probed  (rate 10/ms => expected probing finish time 10710s) 140s
+   Considered 2376 / 987254 binaries; 2376 probed  (rate 10/ms => expected probing finish time 10523s) 145s
+   Considered 644 / 984840 binaries; 644 probed  (rate 7/ms => expected probing finish time 7832s) 189s
+   Considered 1305 / 984840 binaries; 1305 probed  (rate 7/ms => expected probing finish time 7735s) 194s
+   Considered 2044 / 984840 binaries; 2043 probed  (rate 7/ms => expected probing finish time 7420s) 199s
+   Considered 1655 / 982466 binaries; 1650 probed  (rate 3/ms => expected probing finish time 3219s) 245s
+   Considered 562 / 980173 binaries; 562 probed  (rate 8/ms => expected probing finish time 9006s) 291s
+   Considered 1023 / 980173 binaries; 1023 probed  (rate 10/ms => expected probing finish time 10916s) 296s
+   Considered 1609 / 980173 binaries; 1609 probed  (rate 9/ms => expected probing finish time 9425s) 301s
+   Considered 2199 / 980173 binaries; 2199 probed  (rate 9/ms => expected probing finish time 9204s) 306s
+   Considered 746 / 977896 binaries; 746 probed  (rate 6/ms => expected probing finish time 6907s) 349s
+   Considered 1660 / 977896 binaries; 1660 probed  (rate 6/ms => expected probing finish time 6241s) 354s
+   Considered 783 / 976785 binaries; 783 probed  (rate 6/ms => expected probing finish time 6633s) 399s
+   Considered 2996 / 976785 binaries; 2996 probed  (rate 3/ms => expected probing finish time 3655s) 404s
+   Considered 5473 / 976785 binaries; 5473 probed  (rate 2/ms => expected probing finish time 3072s) 409s
+   Considered 7929 / 976785 binaries; 7929 probed  (rate 2/ms => expected probing finish time 2858s) 414s
+   Considered 10342 / 976785 binaries; 10342 probed  (rate 2/ms => expected probing finish time 2756s) 419s
+   Considered 12739 / 976785 binaries; 12739 probed  (rate 2/ms => expected probing finish time 2695s) 424s
+   Considered 15111 / 976785 binaries; 15111 probed  (rate 2/ms => expected probing finish time 2657s) 429s
+   Considered 17443 / 976785 binaries; 17443 probed  (rate 2/ms => expected probing finish time 2634s) 434s
+   Considered 949 / 975784 binaries; 939 probed  (rate 5/ms => expected probing finish time 5675s) 479s
+   Considered 1947 / 975784 binaries; 1896 probed  (rate 5/ms => expected probing finish time 5624s) 484s
+   Considered 3439 / 975784 binaries; 3353 probed  (rate 4/ms => expected probing finish time 4841s) 489s
+   Considered 6584 / 975784 binaries; 6498 probed  (rate 3/ms => expected probing finish time 3479s) 494s
+   Considered 9522 / 975784 binaries; 9436 probed  (rate 2/ms => expected probing finish time 3061s) 499s
+   Considered 1212 / 974783 binaries; 1212 probed  (rate 4/ms => expected probing finish time 4560s) 542s
+   Considered 2439 / 974783 binaries; 2438 probed  (rate 4/ms => expected probing finish time 4538s) 547s
+10393 rows, 974123 cols, 7196514 nonzeros 591s
+Presolve reductions: rows 10393(-103); columns 974123(-25878); nonzeros 7196514(-137882) 
+
+MIP start solution is feasible, objective value is 0.121647015162
+
+Solving MIP model with:
+   10393 rows
+   974123 cols (974122 binary, 0 integer, 0 implied int., 1 continuous, 0 domain fixed)
+   7196514 nonzeros
+   Thread count 6 (of 12 threads). Using 1 max workers. Parallel search off
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   0               0.1216470152     100.00%        0      0      0         0   606.6s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%        0      0      4      2586   646.8s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%      117      6      4      3621   658.7s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%      155     11      4      5026   672.0s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%      253     19      4      6811   689.0s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%      347     26      4      8132   698.7s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%      440     32      8     10203   867.8s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%      548     52      8     21976  1234.7s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%     1607    118      8     31258  1345.6s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%     2650    192      8     45518  1857.5s
+         0       0         0   0.00%   0.1155237446    0.1216470152       5.03%     2557    192      8     45518  1857.5s
+
+Solving report
+  Status            Time limit reached
+  Primal bound      0.121647015162
+  Dual bound        0.115523744578
+  Gap               5.03% (tolerance: 0.01%)
+  P-D integral      100.061294824
+  Solution status   feasible
+                    0.121647015162 (objective)
+                    0 (bound viol.)
+                    0 (int. viol.)
+                    0 (row viol.)
+  Timing            1857.53
+                    592.32 (Presolve)
+                    1265.17 (Solve)
+                    0.00 (Postsolve)
+  Max sub-MIP depth 0
+  Nodes             0
+  Repair LPs        0
+  LP iterations     45518
+                    0 (strong br.)
+                    42932 (separation)
+                    0 (heuristics)

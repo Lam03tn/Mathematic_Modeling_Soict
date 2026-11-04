@@ -1,0 +1,40 @@
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-02 lần 1/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 1.6 s
+setA-02 lần 2/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 1.1 s
+setA-02 lần 3/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 2.2 s
+setA-02 lần 4/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 1.4 s
+setA-02 lần 5/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 1.4 s
+setA-02 lần 6/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 2.5 s
+setA-02 lần 7/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 2.2 s
+setA-02 lần 8/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 3.8 s
+setA-02 lần 9/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 1.1 s
+setA-02 lần 10/10: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 2.2 s

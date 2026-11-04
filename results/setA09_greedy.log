@@ -1,0 +1,13 @@
+Sun Nov  1 06:55:15 PM +07 2026
+Running as unit: run-r9768e996f8d34bdab3812dbc1d23de0b.scope; invocation ID: 56727530c5244d6e9712c0f808374628
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-09 lần 1/2: TIME_LIMIT, best = 0.5376, gap = 0.06, optimize! = 1804.6 s
+setA-09 lần 2/2: TIME_LIMIT, best = 0.5376, gap = 0.06, optimize! = 1804.7 s
+exit=0
+Sun Nov  1 07:59:16 PM +07 2026
+XONG

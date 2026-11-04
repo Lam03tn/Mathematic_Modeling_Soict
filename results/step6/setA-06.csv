@@ -1,0 +1,3 @@
+instance,run,seed,n,m,demands,status,best,bound,gap,nodes,seconds,build_seconds,baseline,recomputed_mlu,max_rss_gb
+setA-06,1,0,100,500,500,TIME_LIMIT,1.0000001,0.0,1.0,0,1808.872599653,125.734319159,1.0000001,1.0000001,14.23
+setA-06,2,1,100,500,500,TIME_LIMIT,1.0000001,0.0,1.0,0,1806.027635019,127.536406929,1.0000001,1.0000001,13.99

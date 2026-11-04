@@ -1,0 +1,2 @@
+instance,run,seed,n,m,demands,status,best,bound,gap,nodes,seconds,build_seconds,baseline,recomputed_mlu,max_rss_gb,budget,budget_used,mlu_by_period
+setA-04,1,0,50,250,200,TIME_LIMIT,1.000000502512563,-Inf,Inf,0,23796.80058432,32.257154102,1.000000502512563,1.000000502512563,4.15,44.0,0,0.6918238693467338;1.000000502512563

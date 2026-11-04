@@ -1,0 +1,92 @@
+MIP has 51000 rows; 5000001 cols; 37559500 nonzeros; 5000000 integer variables (4950000 binary)
+Coefficient ranges:
+  Matrix  [1e-04, 1e+00]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 6e+00]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+50998 rows, 4950001 cols, 37559498 nonzeros 32s
+50998 rows, 4950001 cols, 37461498 nonzeros 258s
+Presolve reductions: rows 50998(-2); columns 4950001(-50000); nonzeros 37461498(-98002) 
+
+MIP start solution is feasible, objective value is 1.0000001
+
+Solving MIP model with:
+   50998 rows
+   4950001 cols (4950000 binary, 0 integer, 0 implied int., 1 continuous, 0 domain fixed)
+   37461498 nonzeros
+   Thread count 6 (of 12 threads). Using 1 max workers. Parallel search off
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   0               1.0000001        100.00%        0      0      0         0   406.0s
+MIP has 51000 rows; 5000001 cols; 37559500 nonzeros; 5000000 integer variables (4950000 binary)
+Coefficient ranges:
+  Matrix  [1e-04, 1e+00]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 6e+00]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+50998 rows, 4950001 cols, 37559498 nonzeros 13s
+50998 rows, 4950001 cols, 37461498 nonzeros 207s
+Presolve reductions: rows 50998(-2); columns 4950001(-50000); nonzeros 37461498(-98002) 
+
+MIP start solution is feasible, objective value is 1.0000001
+
+Solving MIP model with:
+   50998 rows
+   4950001 cols (4950000 binary, 0 integer, 0 implied int., 1 continuous, 0 domain fixed)
+   37461498 nonzeros
+   Thread count 6 (of 12 threads). Using 1 max workers. Parallel search off
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   0               1.0000001        100.00%        0      0      0         0   296.0s
+         0       0         0   0.00%   0               1.0000001        100.00%        0      0      2     19464  1801.2s
+
+Solving report
+  Status            Time limit reached
+  Primal bound      1.0000001
+  Dual bound        0
+  Gap               100% (tolerance: 0.01%)
+  P-D integral      1505.20017266
+  Solution status   feasible
+                    1.0000001 (objective)
+                    0 (bound viol.)
+                    0 (int. viol.)
+                    0 (row viol.)
+  Timing            1801.15
+                    208.82 (Presolve)
+                    1592.03 (Solve)
+                    0.00 (Postsolve)
+  Max sub-MIP depth 0
+  Nodes             0
+  Repair LPs        0
+  LP iterations     19464
+                    0 (strong br.)
+                    0 (separation)
+                    0 (heuristics)

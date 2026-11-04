@@ -1,0 +1,434 @@
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-01 lần 1/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 56.4 s
+setA-01 lần 2/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 51.6 s
+setA-01 lần 3/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 60.4 s
+setA-01 lần 4/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 52.4 s
+setA-01 lần 5/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 142.1 s
+setA-01 lần 6/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 78.6 s
+setA-01 lần 7/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 131.1 s
+setA-01 lần 8/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 269.9 s
+setA-01 lần 9/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 92.6 s
+setA-01 lần 10/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 77.9 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-03 lần 1/5: TIME_LIMIT, best = 1.0, gap = 0.0565, optimize! = 1800.4 s
+setA-03 lần 2/5: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 1670.1 s
+setA-03 lần 3/5: TIME_LIMIT, best = 1.0, gap = 0.136, optimize! = 2085.3 s
+setA-03 lần 4/5: TIME_LIMIT, best = 1.0, gap = 0.0565, optimize! = 1800.4 s
+setA-03 lần 5/5: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 972.3 s
+setA-16: không dựng: ước tính 4151.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-10: không dựng: ước tính 231.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-11: không dựng: ước tính 127.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-12: không dựng: ước tính 177.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-13: không dựng: ước tính 1007.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-14: không dựng: ước tính 451.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-15: không dựng: ước tính 308.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-17: không dựng: ước tính 2231.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-18: không dựng: ước tính 1501.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-19: không dựng: ước tính 7582.0 triệu số hạng trong (3) > 100 triệu (RAM)
+setA-20: không dựng: ước tính 8526.0 triệu số hạng trong (3) > 100 triệu (RAM)
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-02 lần 4/5: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 1108.6 s
+setA-02 lần 5/5: TIME_LIMIT, best = 1.0981, gap = 0.4315, optimize! = 1808.5 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+
+[1037163] signal 15: Terminated
+in expression starting at work/run_experiments.jl:102
+unknown function (ip: 0x7d28f6498e4f) at /lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at ~/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+_ZN8presolve9HPresolve16dominatedColumnsERNS_19HighsPostsolveStackE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8presolve9HPresolve8presolveERNS_19HighsPostsolveStackE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8presolve9HPresolve3runERNS_19HighsPostsolveStackE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN18HighsMipSolverData14runMipPresolveEi at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN14HighsMipSolver3runEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs12callSolveMipEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs19calledOptimizeModelEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs13optimizeModelEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs3runEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+Highs_run at ~/.julia/packages/HiGHS/FDUra/src/gen/libhighs.jl:344 [inlined]
+_gc_safe_Highs_run at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2279
+_Highs_run_workaround_issue_316 at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2303 [inlined]
+#44 at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2341 [inlined]
+disable_sigint at ./c.jl:167
+optimize! at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2341
+jfptr_optimizeNOT._5167 at ~/.julia/compiled/v1.13/HiGHS/WFic5_K0pGe.so (unknown line)
+#optimize!#96 at ~/.julia/packages/JuMP/insRt/src/optimizer_interface.jl:633
+optimize! at ~/.julia/packages/JuMP/insRt/src/optimizer_interface.jl:569 [inlined]
+macro expansion at ./timing.jl:463 [inlined]
+#solve_model!#49 at work/segment_routing_model.jl:76
+solve_model! at work/segment_routing_model.jl:72 [inlined]
+run_once_multi at work/run_experiments.jl:56
+#73 at work/run_experiments.jl:86
+#open#324 at ./io.jl:429
+open at ./io.jl:426 [inlined]
+#run_experiments#68 at work/run_experiments.jl:81
+run_experiments at work/run_experiments.jl:63
+unknown function (ip: 0x7d28dcd1db41) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at ~/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x7d28f642a1c9) at /lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 91322005 (Pool: 91321631; Big: 374); GC: 119
+setA-04 lần 1/5: TIME_LIMIT, best = 1.0, gap = Inf, optimize! = 23796.8 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+
+[2563881] signal 15: Terminated
+in expression starting at work/run_experiments.jl:116
+unknown function (ip: 0x775870498e4f) at /lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at ~/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+_ZNK8presolve9HPresolve15getRowPositionsEiRSt6vectorIiSaIiEE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8presolve9HPresolve16dominatedColumnsERNS_19HighsPostsolveStackE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8presolve9HPresolve8presolveERNS_19HighsPostsolveStackE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8presolve9HPresolve3runERNS_19HighsPostsolveStackE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN18HighsMipSolverData14runMipPresolveEi at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN14HighsMipSolver3runEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs12callSolveMipEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs19calledOptimizeModelEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs13optimizeModelEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs3runEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+Highs_run at ~/.julia/packages/HiGHS/FDUra/src/gen/libhighs.jl:344 [inlined]
+_gc_safe_Highs_run at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2279
+_Highs_run_workaround_issue_316 at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2303 [inlined]
+#44 at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2341 [inlined]
+disable_sigint at ./c.jl:167
+optimize! at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2341
+jfptr_optimizeNOT._5167 at ~/.julia/compiled/v1.13/HiGHS/WFic5_K0pGe.so (unknown line)
+#optimize!#96 at ~/.julia/packages/JuMP/insRt/src/optimizer_interface.jl:633
+optimize! at ~/.julia/packages/JuMP/insRt/src/optimizer_interface.jl:569 [inlined]
+macro expansion at ./timing.jl:463 [inlined]
+#solve_model!#50 at work/segment_routing_model.jl:76
+solve_model! at work/segment_routing_model.jl:72 [inlined]
+run_once_multi at work/run_experiments.jl:63
+unknown function (ip: 0x77585af470de) at (unknown file)
+#104 at work/run_experiments.jl:100
+#open#324 at ./io.jl:429 [inlined]
+open at ./io.jl:426 [inlined]
+#run_experiments#99 at work/run_experiments.jl:95
+run_experiments at work/run_experiments.jl:70
+unknown function (ip: 0x77585af1bfd4) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at ~/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x77587042a1c9) at /lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 47111186 (Pool: 47110738; Big: 448); GC: 55
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+
+[2627528] signal 15: Terminated
+in expression starting at work/run_experiments.jl:116
+unknown function (ip: 0x76c601098e4f) at /lib/x86_64-linux-gnu/libc.so.6
+pthread_cond_wait at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+uv_cond_wait at /workspace/srcdir/libuv/src/unix/thread.c:822
+ijl_task_get_next at /cache/build/builder-amdci4-4/julialang/julia-ci/src/scheduler.c:614
+wait at ./task.jl:1297
+#wait#392 at ./condition.jl:141
+wait at ./condition.jl:136 [inlined]
+_trywait at ./asyncevent.jl:186
+profile_printing_listener at ./Base.jl:335
+#start_profile_listener##0 at ./Base.jl:355
+jfptr_YY.start_profile_listenerYY.YY.0_16994.1 at ~/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+start_task at /cache/build/builder-amdci4-4/julialang/julia-ci/src/task.c:1287
+unknown function (ip: (nil)) at (unknown file)
+_ZN11HEkkDualRow24chooseFinalWorkGroupQuadEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN11HEkkDualRow11chooseFinalEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8HEkkDual12chooseColumnEP11HVectorBaseIdE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8HEkkDual7iterateEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8HEkkDual11solvePhase2Ev at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN8HEkkDual5solveEb at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN4HEkk5solveEb at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_Z14solveLpSimplexR19HighsLpSolverObject at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_Z7solveLpR19HighsLpSolverObjectNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs11callSolveLpER7HighsLpRKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZZN5Highs19calledOptimizeModelEvENKUlR7HighsLpRKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERdE_clES1_S9_SA_ at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs19calledOptimizeModelEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN17HighsLpRelaxation3runEb at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN17HighsLpRelaxation9resolveLpEP11HighsDomain at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN18HighsMipSolverData14evaluateRootLpER14HighsMipWorker at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN18HighsMipSolverData16evaluateRootNodeER14HighsMipWorker at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN14HighsMipSolver3runEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs12callSolveMipEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs19calledOptimizeModelEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs13optimizeModelEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+_ZN5Highs3runEv at ~/.julia/artifacts/e1540b7b116ba1f77d0f11be614fcddf9060464e/lib/libhighs.so (unknown line)
+Highs_run at ~/.julia/packages/HiGHS/FDUra/src/gen/libhighs.jl:344 [inlined]
+_gc_safe_Highs_run at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2279
+_Highs_run_workaround_issue_316 at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2303 [inlined]
+#44 at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2341 [inlined]
+disable_sigint at ./c.jl:167
+optimize! at ~/.julia/packages/HiGHS/FDUra/src/MOI_wrapper.jl:2341
+jfptr_optimizeNOT._5167 at ~/.julia/compiled/v1.13/HiGHS/WFic5_K0pGe.so (unknown line)
+#optimize!#96 at ~/.julia/packages/JuMP/insRt/src/optimizer_interface.jl:633
+optimize! at ~/.julia/packages/JuMP/insRt/src/optimizer_interface.jl:569 [inlined]
+macro expansion at ./timing.jl:463 [inlined]
+#solve_model!#50 at work/segment_routing_model.jl:76
+solve_model! at work/segment_routing_model.jl:72 [inlined]
+run_once_multi at work/run_experiments.jl:63
+unknown function (ip: 0x76c5e7949ece) at (unknown file)
+#106 at work/run_experiments.jl:100
+#open#324 at ./io.jl:429 [inlined]
+open at ./io.jl:426 [inlined]
+#run_experiments#101 at work/run_experiments.jl:95
+run_experiments at work/run_experiments.jl:70
+unknown function (ip: 0x76c5e791a554) at (unknown file)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+do_call at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:123
+eval_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:243
+eval_stmt_value at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:194 [inlined]
+eval_body at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:679
+jl_interpret_toplevel_thunk at /cache/build/builder-amdci4-4/julialang/julia-ci/src/interpreter.c:884
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:742
+jl_eval_toplevel_stmts at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:585
+jl_toplevel_eval_flex at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:683
+ijl_toplevel_eval at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:754
+ijl_toplevel_eval_in at /cache/build/builder-amdci4-4/julialang/julia-ci/src/toplevel.c:799
+eval at ./boot.jl:489
+include_string at ./loading.jl:3045
+_include at ./loading.jl:3105
+include at ./Base.jl:309
+exec_options at ./client.jl:344
+_start at ./client.jl:577
+jfptr__start_60477.1 at ~/.julia/juliaup/julia-1.13.2+0.x64.linux.gnu/lib/julia/sys.so (unknown line)
+jl_apply at /cache/build/builder-amdci4-4/julialang/julia-ci/src/julia.h:2319 [inlined]
+true_main at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:985
+jl_repl_entrypoint at /cache/build/builder-amdci4-4/julialang/julia-ci/src/jlapi.c:1152
+main at /cache/build/builder-amdci4-4/julialang/julia-ci/cli/loader_exe.c:58
+unknown function (ip: 0x76c60102a1c9) at /lib/x86_64-linux-gnu/libc.so.6
+__libc_start_main at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
+unknown function (ip: 0x4010b8) at /workspace/srcdir/glibc-2.17/csu/../sysdeps/x86_64/start.S
+unknown function (ip: (nil)) at (unknown file)
+Allocations: 139525605 (Pool: 139525145; Big: 460); GC: 224
+setA-04 lần 1/5: TIME_LIMIT, best = 1.0, gap = 1.0, optimize! = 1802.0 s
+setA-04 lần 2/5: TIME_LIMIT, best = 1.0, gap = 0.4189, optimize! = 1801.4 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-02 lần 1/3: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 1257.2 s
+setA-02 lần 2/3: TIME_LIMIT, best = 1.0981, gap = 0.1776, optimize! = 3600.2 s
+setA-02 lần 3/3: OPTIMAL, best = 0.9031, gap = 0.0, optimize! = 47.3 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-04 lần 1/3: TIME_LIMIT, best = 1.0, gap = 1.0, optimize! = 3601.6 s
+setA-04 lần 2/3: TIME_LIMIT, best = 1.0, gap = 1.0, optimize! = 3603.7 s
+setA-04 lần 3/3: TIME_LIMIT, best = 1.0, gap = 1.0, optimize! = 3603.2 s
+setA-03 lần 1/3: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 225.3 s
+setA-03 lần 2/3: OPTIMAL, best = 0.9435, gap = 0.0, optimize! = 149.3 s
+setA-03 lần 3/3: TIME_LIMIT, best = 0.9444, gap = 0.0009, optimize! = 3602.6 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-01 lần 1/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 15.2 s
+setA-01 lần 2/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 29.4 s
+setA-01 lần 3/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 24.6 s
+setA-01 lần 4/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 26.2 s
+setA-01 lần 5/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 15.5 s
+setA-01 lần 6/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 16.7 s
+setA-01 lần 7/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 14.4 s
+setA-01 lần 8/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 13.3 s
+setA-01 lần 9/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 11.7 s
+setA-01 lần 10/10: OPTIMAL, best = 0.9294, gap = 0.0, optimize! = 15.3 s
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+Running HiGHS 1.15.1 (git hash: 04024d701f): Copyright (c) 2026 under MIT licence terms
+Includes third-party software components, see THIRD_PARTY_NOTICES.md for full details
+Using BLAS: libblastrampoline 
+setA-05 lần 1/3: OPTIMAL, best = 0.205, gap = 0.0, optimize! = 2028.3 s
+setA-05 lần 2/3: OPTIMAL, best = 0.205, gap = 0.0, optimize! = 1134.4 s
+setA-05 lần 3/3: TIME_LIMIT, best = 1.0, gap = 0.795, optimize! = 11709.4 s

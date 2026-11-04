@@ -1,0 +1,258 @@
+MIP has 10496 rows; 1000001 cols; 7334396 nonzeros; 1000000 integer variables (990000 binary)
+Coefficient ranges:
+  Matrix  [5e-04, 2e+01]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 2e+00]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+10496 rows, 990001 cols, 7334396 nonzeros 9s
+   Considered 269 / 989803 binaries; 269 probed  (rate 18/ms => expected probing finish time 18516s) 68s
+   Considered 542 / 989803 binaries; 542 probed  (rate 18/ms => expected probing finish time 18381s) 73s
+   Considered 818 / 989803 binaries; 818 probed  (rate 18/ms => expected probing finish time 18252s) 78s
+   Considered 1096 / 989803 binaries; 1096 probed  (rate 18/ms => expected probing finish time 18162s) 83s
+   Considered 1356 / 989803 binaries; 1356 probed  (rate 19/ms => expected probing finish time 19154s) 88s
+   Considered 1622 / 989803 binaries; 1622 probed  (rate 18/ms => expected probing finish time 18717s) 93s
+   Considered 1889 / 989803 binaries; 1889 probed  (rate 18/ms => expected probing finish time 18601s) 98s
+   Considered 2160 / 989803 binaries; 2160 probed  (rate 18/ms => expected probing finish time 18429s) 103s
+   Considered 2435 / 989803 binaries; 2435 probed  (rate 18/ms => expected probing finish time 18391s) 108s
+   Considered 270 / 987251 binaries; 270 probed  (rate 18/ms => expected probing finish time 18473s) 159s
+   Considered 529 / 987251 binaries; 529 probed  (rate 19/ms => expected probing finish time 19219s) 164s
+   Considered 791 / 987251 binaries; 791 probed  (rate 19/ms => expected probing finish time 19009s) 169s
+   Considered 1059 / 987251 binaries; 1059 probed  (rate 18/ms => expected probing finish time 18830s) 174s
+   Considered 1333 / 987251 binaries; 1333 probed  (rate 18/ms => expected probing finish time 18700s) 179s
+   Considered 1655 / 987251 binaries; 1655 probed  (rate 18/ms => expected probing finish time 18083s) 184s
+   Considered 2008 / 987251 binaries; 2007 probed  (rate 17/ms => expected probing finish time 17400s) 189s
+   Considered 2375 / 987251 binaries; 2374 probed  (rate 16/ms => expected probing finish time 16816s) 194s
+   Considered 490 / 984823 binaries; 490 probed  (rate 10/ms => expected probing finish time 10295s) 244s
+   Considered 1006 / 984823 binaries; 1006 probed  (rate 9/ms => expected probing finish time 10034s) 249s
+   Considered 1546 / 984823 binaries; 1546 probed  (rate 9/ms => expected probing finish time 9799s) 254s
+   Considered 2153 / 984823 binaries; 2153 probed  (rate 9/ms => expected probing finish time 9393s) 259s
+   Considered 1046 / 982446 binaries; 1046 probed  (rate 4/ms => expected probing finish time 5003s) 310s
+   Considered 489 / 980177 binaries; 489 probed  (rate 10/ms => expected probing finish time 10385s) 363s
+   Considered 810 / 980177 binaries; 810 probed  (rate 15/ms => expected probing finish time 15663s) 368s
+   Considered 1117 / 980177 binaries; 1117 probed  (rate 16/ms => expected probing finish time 16328s) 373s
+   Considered 1391 / 980177 binaries; 1391 probed  (rate 18/ms => expected probing finish time 18282s) 378s
+   Considered 1680 / 980177 binaries; 1680 probed  (rate 17/ms => expected probing finish time 17326s) 383s
+   Considered 1974 / 980177 binaries; 1974 probed  (rate 17/ms => expected probing finish time 17067s) 388s
+   Considered 2230 / 980177 binaries; 2230 probed  (rate 19/ms => expected probing finish time 19496s) 393s
+   Considered 2474 / 980177 binaries; 2474 probed  (rate 20/ms => expected probing finish time 20464s) 398s
+   Considered 401 / 977921 binaries; 401 probed  (rate 12/ms => expected probing finish time 12686s) 450s
+   Considered 648 / 977921 binaries; 648 probed  (rate 20/ms => expected probing finish time 20259s) 455s
+   Considered 898 / 977921 binaries; 898 probed  (rate 20/ms => expected probing finish time 20060s) 460s
+   Considered 1140 / 977921 binaries; 1140 probed  (rate 20/ms => expected probing finish time 20698s) 465s
+   Considered 1386 / 977921 binaries; 1386 probed  (rate 20/ms => expected probing finish time 20330s) 470s
+   Considered 1636 / 977921 binaries; 1636 probed  (rate 20/ms => expected probing finish time 20075s) 475s
+   Considered 1951 / 977921 binaries; 1951 probed  (rate 17/ms => expected probing finish time 18027s) 480s
+   Considered 1173 / 976255 binaries; 1173 probed  (rate 4/ms => expected probing finish time 4691s) 533s
+   Considered 2630 / 976255 binaries; 2630 probed  (rate 3/ms => expected probing finish time 4242s) 538s
+   Considered 4069 / 976255 binaries; 4069 probed  (rate 3/ms => expected probing finish time 4129s) 543s
+   Considered 5512 / 976255 binaries; 5512 probed  (rate 3/ms => expected probing finish time 4072s) 548s
+   Considered 7023 / 976255 binaries; 7023 probed  (rate 3/ms => expected probing finish time 4005s) 553s
+   Considered 8467 / 976255 binaries; 8467 probed  (rate 3/ms => expected probing finish time 3990s) 558s
+   Considered 9945 / 976255 binaries; 9945 probed  (rate 3/ms => expected probing finish time 3967s) 563s
+   Considered 11357 / 976255 binaries; 11357 probed  (rate 3/ms => expected probing finish time 3985s) 568s
+   Considered 12769 / 976255 binaries; 12769 probed  (rate 3/ms => expected probing finish time 3986s) 573s
+   Considered 14170 / 976255 binaries; 14170 probed  (rate 3/ms => expected probing finish time 4012s) 578s
+   Considered 15614 / 976255 binaries; 15614 probed  (rate 3/ms => expected probing finish time 3970s) 583s
+   Considered 17022 / 976255 binaries; 17022 probed  (rate 3/ms => expected probing finish time 3996s) 588s
+   Considered 18390 / 976255 binaries; 18390 probed  (rate 3/ms => expected probing finish time 4096s) 593s
+   Considered 19814 / 976255 binaries; 19814 probed  (rate 3/ms => expected probing finish time 3979s) 598s
+   Considered 21231 / 976255 binaries; 21231 probed  (rate 3/ms => expected probing finish time 3979s) 603s
+   Considered 22648 / 976255 binaries; 22648 probed  (rate 3/ms => expected probing finish time 3979s) 608s
+   Considered 556 / 975254 binaries; 548 probed  (rate 9/ms => expected probing finish time 9562s) 666s
+   Considered 1184 / 975254 binaries; 1155 probed  (rate 8/ms => expected probing finish time 9113s) 671s
+   Considered 1820 / 975254 binaries; 1751 probed  (rate 8/ms => expected probing finish time 9021s) 676s
+   Considered 2414 / 975254 binaries; 2303 probed  (rate 9/ms => expected probing finish time 9499s) 681s
+   Considered 752 / 973951 binaries; 752 probed  (rate 6/ms => expected probing finish time 7211s) 733s
+   Considered 1490 / 973951 binaries; 1490 probed  (rate 6/ms => expected probing finish time 7341s) 738s
+   Considered 2094 / 973951 binaries; 2087 probed  (rate 8/ms => expected probing finish time 8917s) 743s
+   Considered 3239 / 973951 binaries; 3219 probed  (rate 6/ms => expected probing finish time 6791s) 748s
+   Considered 4701 / 973951 binaries; 4681 probed  (rate 5/ms => expected probing finish time 5940s) 754s
+   Considered 5865 / 973951 binaries; 5845 probed  (rate 5/ms => expected probing finish time 5735s) 759s
+   Considered 7609 / 973951 binaries; 7589 probed  (rate 4/ms => expected probing finish time 5227s) 764s
+   Considered 9221 / 973951 binaries; 9201 probed  (rate 4/ms => expected probing finish time 4968s) 769s
+   Considered 10983 / 973951 binaries; 10963 probed  (rate 4/ms => expected probing finish time 4731s) 774s
+   Considered 12305 / 973951 binaries; 12285 probed  (rate 4/ms => expected probing finish time 4697s) 779s
+   Considered 13660 / 973951 binaries; 13640 probed  (rate 4/ms => expected probing finish time 4660s) 784s
+   Considered 935 / 972950 binaries; 935 probed  (rate 5/ms => expected probing finish time 6041s) 842s
+   Considered 1856 / 972950 binaries; 1856 probed  (rate 5/ms => expected probing finish time 6121s) 847s
+   Considered 2769 / 972950 binaries; 2768 probed  (rate 5/ms => expected probing finish time 6175s) 852s
+   Considered 3718 / 972950 binaries; 3708 probed  (rate 5/ms => expected probing finish time 6088s) 857s
+   Considered 4614 / 972950 binaries; 4596 probed  (rate 5/ms => expected probing finish time 6321s) 862s
+   Considered 5551 / 972950 binaries; 5511 probed  (rate 5/ms => expected probing finish time 6168s) 867s
+   Considered 6549 / 972950 binaries; 6487 probed  (rate 5/ms => expected probing finish time 6092s) 872s
+   Considered 7664 / 972950 binaries; 7575 probed  (rate 5/ms => expected probing finish time 5980s) 877s
+   Considered 9785 / 972950 binaries; 9693 probed  (rate 4/ms => expected probing finish time 5358s) 882s
+   Considered 11742 / 972950 binaries; 11650 probed  (rate 4/ms => expected probing finish time 5017s) 887s
+   Considered 13059 / 972950 binaries; 12967 probed  (rate 4/ms => expected probing finish time 4967s) 892s
+   Considered 14267 / 972950 binaries; 14175 probed  (rate 4/ms => expected probing finish time 4959s) 897s
+   Considered 15464 / 972950 binaries; 15372 probed  (rate 4/ms => expected probing finish time 4954s) 902s
+   Considered 16664 / 972950 binaries; 16572 probed  (rate 4/ms => expected probing finish time 4950s) 907s
+   Considered 17840 / 972950 binaries; 17748 probed  (rate 4/ms => expected probing finish time 4974s) 912s
+   Considered 19036 / 972950 binaries; 18944 probed  (rate 4/ms => expected probing finish time 4949s) 917s
+   Considered 20284 / 972950 binaries; 20192 probed  (rate 4/ms => expected probing finish time 4936s) 922s
+   Considered 21453 / 972950 binaries; 21361 probed  (rate 4/ms => expected probing finish time 5010s) 927s
+   Considered 22686 / 972950 binaries; 22594 probed  (rate 4/ms => expected probing finish time 4931s) 932s
+   Considered 23892 / 972950 binaries; 23800 probed  (rate 4/ms => expected probing finish time 4928s) 937s
+   Considered 25120 / 972950 binaries; 25028 probed  (rate 4/ms => expected probing finish time 4922s) 942s
+   Considered 26404 / 972950 binaries; 26312 probed  (rate 4/ms => expected probing finish time 4908s) 947s
+   Considered 27713 / 972950 binaries; 27621 probed  (rate 4/ms => expected probing finish time 4891s) 952s
+   Considered 28965 / 972950 binaries; 28873 probed  (rate 4/ms => expected probing finish time 4884s) 957s
+   Considered 30240 / 972950 binaries; 30148 probed  (rate 4/ms => expected probing finish time 4874s) 962s
+   Considered 31488 / 972950 binaries; 31396 probed  (rate 4/ms => expected probing finish time 4869s) 967s
+   Considered 922 / 971943 binaries; 922 probed  (rate 5/ms => expected probing finish time 6297s) 1028s
+   Considered 1924 / 971943 binaries; 1924 probed  (rate 5/ms => expected probing finish time 6077s) 1033s
+   Considered 2908 / 971943 binaries; 2904 probed  (rate 5/ms => expected probing finish time 6046s) 1038s
+   Considered 3812 / 971943 binaries; 3806 probed  (rate 5/ms => expected probing finish time 6416s) 1043s
+   Considered 4642 / 971943 binaries; 4632 probed  (rate 6/ms => expected probing finish time 6929s) 1048s
+   Considered 5525 / 971943 binaries; 5512 probed  (rate 5/ms => expected probing finish time 6549s) 1053s
+   Considered 6495 / 971943 binaries; 6479 probed  (rate 5/ms => expected probing finish time 6280s) 1058s
+   Considered 7454 / 971943 binaries; 7430 probed  (rate 5/ms => expected probing finish time 6261s) 1063s
+   Considered 8378 / 971943 binaries; 8349 probed  (rate 5/ms => expected probing finish time 6311s) 1068s
+   Considered 9328 / 971943 binaries; 9297 probed  (rate 5/ms => expected probing finish time 6255s) 1073s
+   Considered 10237 / 971943 binaries; 10201 probed  (rate 5/ms => expected probing finish time 6401s) 1078s
+   Considered 11061 / 971943 binaries; 11021 probed  (rate 6/ms => expected probing finish time 6943s) 1083s
+   Considered 11884 / 971943 binaries; 11838 probed  (rate 6/ms => expected probing finish time 6969s) 1088s
+   Considered 12685 / 971943 binaries; 12635 probed  (rate 6/ms => expected probing finish time 7117s) 1093s
+   Considered 13542 / 971943 binaries; 13485 probed  (rate 5/ms => expected probing finish time 6740s) 1098s
+   Considered 14432 / 971943 binaries; 14372 probed  (rate 5/ms => expected probing finish time 6505s) 1103s
+   Considered 15266 / 971943 binaries; 15205 probed  (rate 6/ms => expected probing finish time 6854s) 1108s
+   Considered 16158 / 971943 binaries; 16089 probed  (rate 5/ms => expected probing finish time 6524s) 1113s
+   Considered 17052 / 971943 binaries; 16980 probed  (rate 5/ms => expected probing finish time 6481s) 1118s
+   Considered 17947 / 971943 binaries; 17870 probed  (rate 5/ms => expected probing finish time 6486s) 1123s
+   Considered 18814 / 971943 binaries; 18735 probed  (rate 5/ms => expected probing finish time 6639s) 1128s
+   Considered 19975 / 971943 binaries; 19896 probed  (rate 5/ms => expected probing finish time 6401s) 1133s
+   Considered 21287 / 971943 binaries; 21208 probed  (rate 5/ms => expected probing finish time 6298s) 1138s
+   Considered 22269 / 971943 binaries; 22190 probed  (rate 5/ms => expected probing finish time 6283s) 1143s
+   Considered 23222 / 971943 binaries; 23143 probed  (rate 5/ms => expected probing finish time 6277s) 1148s
+   Considered 24111 / 971943 binaries; 24032 probed  (rate 5/ms => expected probing finish time 6485s) 1153s
+   Considered 25052 / 971943 binaries; 24973 probed  (rate 5/ms => expected probing finish time 6281s) 1158s
+   Considered 25984 / 971943 binaries; 25905 probed  (rate 5/ms => expected probing finish time 6280s) 1163s
+   Considered 26995 / 971943 binaries; 26916 probed  (rate 5/ms => expected probing finish time 6263s) 1168s
+   Considered 28030 / 971943 binaries; 27951 probed  (rate 5/ms => expected probing finish time 6243s) 1173s
+   Considered 29199 / 971943 binaries; 29120 probed  (rate 5/ms => expected probing finish time 6200s) 1178s
+   Considered 30348 / 971943 binaries; 30269 probed  (rate 5/ms => expected probing finish time 6164s) 1183s
+   Considered 31511 / 971943 binaries; 31432 probed  (rate 5/ms => expected probing finish time 6129s) 1188s
+   Considered 32631 / 971943 binaries; 32552 probed  (rate 5/ms => expected probing finish time 6103s) 1193s
+   Considered 33829 / 971943 binaries; 33750 probed  (rate 5/ms => expected probing finish time 6067s) 1198s
+   Considered 34991 / 971943 binaries; 34912 probed  (rate 5/ms => expected probing finish time 6038s) 1203s
+   Considered 36158 / 971943 binaries; 36079 probed  (rate 5/ms => expected probing finish time 6011s) 1208s
+   Considered 37616 / 971943 binaries; 37537 probed  (rate 5/ms => expected probing finish time 5947s) 1213s
+   Considered 856 / 970942 binaries; 855 probed  (rate 5/ms => expected probing finish time 6963s) 1288s
+   Considered 1757 / 970942 binaries; 1756 probed  (rate 5/ms => expected probing finish time 6816s) 1293s
+   Considered 2621 / 970942 binaries; 2620 probed  (rate 5/ms => expected probing finish time 6904s) 1298s
+   Considered 3513 / 970942 binaries; 3512 probed  (rate 5/ms => expected probing finish time 6826s) 1303s
+   Considered 4418 / 970942 binaries; 4412 probed  (rate 5/ms => expected probing finish time 6796s) 1308s
+   Considered 5309 / 970942 binaries; 5301 probed  (rate 5/ms => expected probing finish time 6790s) 1313s
+   Considered 6179 / 970942 binaries; 6170 probed  (rate 5/ms => expected probing finish time 6872s) 1318s
+   Considered 7113 / 970942 binaries; 7102 probed  (rate 5/ms => expected probing finish time 6761s) 1323s
+   Considered 8000 / 970942 binaries; 7984 probed  (rate 5/ms => expected probing finish time 6788s) 1328s
+   Considered 8924 / 970942 binaries; 8907 probed  (rate 5/ms => expected probing finish time 6741s) 1333s
+   Considered 9887 / 970942 binaries; 9868 probed  (rate 5/ms => expected probing finish time 6702s) 1338s
+   Considered 10803 / 970942 binaries; 10782 probed  (rate 5/ms => expected probing finish time 6693s) 1343s
+   Considered 11699 / 970942 binaries; 11675 probed  (rate 5/ms => expected probing finish time 6722s) 1348s
+   Considered 12570 / 970942 binaries; 12543 probed  (rate 5/ms => expected probing finish time 6880s) 1353s
+   Considered 13468 / 970942 binaries; 13434 probed  (rate 5/ms => expected probing finish time 6737s) 1358s
+   Considered 14347 / 970942 binaries; 14309 probed  (rate 5/ms => expected probing finish time 6832s) 1363s
+   Considered 15200 / 970942 binaries; 15158 probed  (rate 5/ms => expected probing finish time 7002s) 1368s
+   Considered 16092 / 970942 binaries; 16049 probed  (rate 5/ms => expected probing finish time 6736s) 1373s
+   Considered 17011 / 970942 binaries; 16967 probed  (rate 5/ms => expected probing finish time 6725s) 1378s
+   Considered 17961 / 970942 binaries; 17916 probed  (rate 5/ms => expected probing finish time 6709s) 1383s
+   Considered 18903 / 970942 binaries; 18853 probed  (rate 5/ms => expected probing finish time 6697s) 1389s
+   Considered 19788 / 970942 binaries; 19735 probed  (rate 5/ms => expected probing finish time 6790s) 1394s
+   Considered 20835 / 970942 binaries; 20778 probed  (rate 5/ms => expected probing finish time 6663s) 1399s
+   Considered 21950 / 970942 binaries; 21886 probed  (rate 5/ms => expected probing finish time 6612s) 1404s
+   Considered 23034 / 970942 binaries; 22968 probed  (rate 5/ms => expected probing finish time 6573s) 1409s
+   Considered 24201 / 970942 binaries; 24128 probed  (rate 5/ms => expected probing finish time 6520s) 1414s
+   Considered 25381 / 970942 binaries; 25299 probed  (rate 5/ms => expected probing finish time 6469s) 1419s
+   Considered 26610 / 970942 binaries; 26516 probed  (rate 5/ms => expected probing finish time 6414s) 1424s
+   Considered 27803 / 970942 binaries; 27695 probed  (rate 5/ms => expected probing finish time 6372s) 1429s
+   Considered 28951 / 970942 binaries; 28827 probed  (rate 5/ms => expected probing finish time 6341s) 1434s
+   Considered 30123 / 970942 binaries; 29982 probed  (rate 5/ms => expected probing finish time 6308s) 1439s
+   Considered 1099 / 969923 binaries; 1099 probed  (rate 4/ms => expected probing finish time 5910s) 1502s
+   Considered 2180 / 969923 binaries; 2180 probed  (rate 4/ms => expected probing finish time 5985s) 1507s
+   Considered 3346 / 969923 binaries; 3346 probed  (rate 4/ms => expected probing finish time 5846s) 1512s
+   Considered 4448 / 969923 binaries; 4448 probed  (rate 4/ms => expected probing finish time 5901s) 1517s
+   Considered 5528 / 969923 binaries; 5528 probed  (rate 4/ms => expected probing finish time 5998s) 1522s
+   Considered 6619 / 969923 binaries; 6619 probed  (rate 4/ms => expected probing finish time 5945s) 1527s
+   Considered 7685 / 969923 binaries; 7685 probed  (rate 4/ms => expected probing finish time 6046s) 1532s
+   Considered 8775 / 969923 binaries; 8775 probed  (rate 4/ms => expected probing finish time 5947s) 1537s
+   Considered 9867 / 969923 binaries; 9867 probed  (rate 4/ms => expected probing finish time 5942s) 1542s
+   Considered 10921 / 969923 binaries; 10921 probed  (rate 4/ms => expected probing finish time 6097s) 1547s
+   Considered 11958 / 969923 binaries; 11958 probed  (rate 4/ms => expected probing finish time 6174s) 1552s
+   Considered 13068 / 969923 binaries; 13068 probed  (rate 4/ms => expected probing finish time 5953s) 1557s
+   Considered 14132 / 969923 binaries; 14132 probed  (rate 4/ms => expected probing finish time 6056s) 1562s
+   Considered 15254 / 969923 binaries; 15254 probed  (rate 4/ms => expected probing finish time 5951s) 1567s
+   Considered 16379 / 969923 binaries; 16379 probed  (rate 4/ms => expected probing finish time 5941s) 1572s
+   Considered 17471 / 969923 binaries; 17471 probed  (rate 4/ms => expected probing finish time 5941s) 1577s
+   Considered 18542 / 969923 binaries; 18542 probed  (rate 4/ms => expected probing finish time 6041s) 1582s
+   Considered 19606 / 969923 binaries; 19606 probed  (rate 4/ms => expected probing finish time 6054s) 1587s
+   Considered 20673 / 969923 binaries; 20673 probed  (rate 4/ms => expected probing finish time 6041s) 1592s
+   Considered 21738 / 969923 binaries; 21738 probed  (rate 4/ms => expected probing finish time 6052s) 1597s
+   Considered 22798 / 969923 binaries; 22798 probed  (rate 4/ms => expected probing finish time 6073s) 1602s
+   Considered 23846 / 969923 binaries; 23846 probed  (rate 4/ms => expected probing finish time 6121s) 1607s
+   Considered 24916 / 969923 binaries; 24916 probed  (rate 4/ms => expected probing finish time 6031s) 1612s
+   Considered 25960 / 969923 binaries; 25960 probed  (rate 4/ms => expected probing finish time 6141s) 1617s
+   Considered 27051 / 969923 binaries; 27051 probed  (rate 4/ms => expected probing finish time 5982s) 1622s
+   Considered 28159 / 969923 binaries; 28159 probed  (rate 4/ms => expected probing finish time 5979s) 1627s
+   Considered 29279 / 969923 binaries; 29279 probed  (rate 4/ms => expected probing finish time 5973s) 1632s
+   Considered 30499 / 969923 binaries; 30497 probed  (rate 4/ms => expected probing finish time 5953s) 1637s
+   Considered 31629 / 969923 binaries; 31627 probed  (rate 4/ms => expected probing finish time 5947s) 1642s
+   Considered 32750 / 969923 binaries; 32748 probed  (rate 4/ms => expected probing finish time 5943s) 1647s
+   Considered 34007 / 969923 binaries; 34005 probed  (rate 4/ms => expected probing finish time 5922s) 1652s
+   Considered 35304 / 969923 binaries; 35302 probed  (rate 4/ms => expected probing finish time 5897s) 1657s
+   Considered 36803 / 969923 binaries; 36801 probed  (rate 4/ms => expected probing finish time 5849s) 1662s
+   Considered 38301 / 969923 binaries; 38299 probed  (rate 4/ms => expected probing finish time 5806s) 1667s
+   Considered 39672 / 969923 binaries; 39670 probed  (rate 4/ms => expected probing finish time 5779s) 1672s
+   Considered 40946 / 969923 binaries; 40944 probed  (rate 4/ms => expected probing finish time 5764s) 1677s
+   Considered 42207 / 969923 binaries; 42205 probed  (rate 4/ms => expected probing finish time 5752s) 1682s
+   Considered 43409 / 969923 binaries; 43407 probed  (rate 4/ms => expected probing finish time 5746s) 1687s
+   Considered 1282 / 968856 binaries; 1281 probed  (rate 3/ms => expected probing finish time 5530s) 1752s
+   Considered 2538 / 968856 binaries; 2537 probed  (rate 3/ms => expected probing finish time 5607s) 1757s
+   Considered 3746 / 968856 binaries; 3744 probed  (rate 4/ms => expected probing finish time 5766s) 1762s
+   Considered 5021 / 968856 binaries; 5019 probed  (rate 3/ms => expected probing finish time 5611s) 1767s
+   Considered 6243 / 968856 binaries; 6241 probed  (rate 4/ms => expected probing finish time 5713s) 1772s
+   Considered 7542 / 968856 binaries; 7540 probed  (rate 3/ms => expected probing finish time 5604s) 1777s
+   Considered 8963 / 968856 binaries; 8961 probed  (rate 3/ms => expected probing finish time 5533s) 1782s
+   Considered 10403 / 968856 binaries; 10399 probed  (rate 3/ms => expected probing finish time 5476s) 1787s
+   Considered 11704 / 968856 binaries; 11700 probed  (rate 3/ms => expected probing finish time 5476s) 1792s
+   Considered 13018 / 968856 binaries; 13010 probed  (rate 3/ms => expected probing finish time 5474s) 1797s
+Time limit reached in probing: consider not using probing by setting option presolve_rule_off to 2^15 = 32768
+Presolve reductions: rows 10369(-127); columns 968857(-31144); nonzeros 7157643(-176753) 
+Presolve: Time limit reached
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   -inf            inf                  inf        0      0      0         0  1812.0s
+
+Solving report
+  Status            Time limit reached
+  Primal bound      inf
+  Dual bound        -inf
+  Gap               inf
+  P-D integral      0
+  Solution status   feasible
+                    0.121647015162 (objective)
+                    0 (bound viol.)
+                    0 (int. viol.)
+                    0 (row viol.)
+  Timing            1812.00
+                    1811.91 (Presolve)
+                    0.00 (Solve)
+                    0.00 (Postsolve)
+  Max sub-MIP depth 0
+  Nodes             0
+  Repair LPs        0
+  LP iterations     0

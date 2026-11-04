@@ -1,0 +1,28 @@
+MIP has 510900 rows; 1500001 cols; 8746332 nonzeros; 1000000 integer variables (980000 binary)
+Coefficient ranges:
+  Matrix  [1e-04, 2e+00]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 4e+01]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+510826 rows, 1470001 cols, 8746258 nonzeros 8s
+MIP has 510900 rows; 1500001 cols; 8746332 nonzeros; 1000000 integer variables (980000 binary)
+Coefficient ranges:
+  Matrix  [1e-04, 2e+00]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 4e+01]
+Assessing feasibility of MIP using primal feasibility and integrality tolerance of       1e-06
+Solution has               num          max          sum
+Col     infeasibilities      0            0            0
+Integer infeasibilities      0            0            0
+Row     infeasibilities      0            0            0
+Row     residuals            0            0            0
+Presolving model
+510826 rows, 1470001 cols, 8746258 nonzeros 3s

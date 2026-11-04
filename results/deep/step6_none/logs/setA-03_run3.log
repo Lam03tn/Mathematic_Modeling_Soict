@@ -1,0 +1,66 @@
+MIP has 1270 rows; 50001 cols; 296450 nonzeros; 50000 integer variables (49000 binary)
+Coefficient ranges:
+  Matrix  [2e-03, 3e+00]
+  Cost    [1e+00, 1e+00]
+  Bound   [1e+00, 1e+00]
+  RHS     [1e+00, 6e+00]
+Presolving model
+1219 rows, 49001 cols, 296399 nonzeros 0s
+1219 rows, 49001 cols, 294479 nonzeros 1s
+Presolve reductions: rows 1219(-51); columns 49001(-1000); nonzeros 294479(-1971) 
+
+Solving MIP model with:
+   1219 rows
+   49001 cols (49000 binary, 0 integer, 0 implied int., 1 continuous, 0 domain fixed)
+   294479 nonzeros
+   Thread count 6 (of 12 threads). Using 1 max workers. Parallel search off
+
+Src: B => Branching; C => Central rounding; F => Feasibility pump; H => Heuristic;
+     I => Shifting; J => Feasibility jump; L => Sub-MIP; P => Empty MIP; R => Randomized rounding;
+     S => Solve LP; T => Evaluate node; U => Unbounded; X => User solution; Y => HiGHS solution;
+     Z => ZI Round; l => Trivial lower; p => Trivial point; u => Trivial upper; z => Trivial zero
+
+        Nodes      |    B&B Tree     |            Objective Bounds              |  Dynamic Constraints |       Work      
+Src  Proc. InQueue |  Leaves   Expl. | BestBound       BestSol              Gap |   Cuts   InLp Confl. | LpIters     Time
+
+         0       0         0   0.00%   0               inf                  inf        0      0      0         0     1.8s
+         0       0         0   0.00%   0.6336611557    inf                  inf        0      0      4       352     2.3s
+ R       0       0         0   0.00%   0.8946047109    2.455258235       63.56%       95      7      8       604     3.9s
+ C       0       0         0   0.00%   0.9122339252    1.077284656       15.32%      236     19      8       899     7.0s
+ L       0       0         0   0.00%   0.9179003744    0.9435434146       2.72%      759     42      8      1583    16.5s
+
+2.7% inactive integer columns, restarting
+Model after restart has 1219 rows, 47692 cols (47691 bin., 0 int., 0 impl., 1 cont., 0 dom.fix.), and 285045 nonzeros
+
+         0       0         0   0.00%   0.9183899216    0.9435434146       2.67%       11      0      0      3026    18.0s
+         0       0         0   0.00%   0.9183899216    0.9435434146       2.67%       11      3      0      3541    18.3s
+         1       0         1 100.00%   0.9435434146    0.9435434146       0.00%      673     78     17     32508    42.5s
+
+Solving report
+  Status            Optimal
+  Primal bound      0.943543414634
+  Dual bound        0.943543414634
+  Gap               0% (tolerance: 0.01%)
+  P-D integral      3.65135673086
+  Solution status   feasible
+                    0.943543414634 (objective)
+                    0 (bound viol.)
+                    2.44249065418e-15 (int. viol.)
+                    0 (row viol.)
+  Timing            42.53
+                    4.79 (Presolve)
+                        MIP    time [calls] = 1.27 [1]
+                        subMIP time [calls] = 3.52 [5]
+                    37.73 (Solve)
+                        MIP    time [calls] = 28.03 [1]
+                        subMIP time [calls] = 9.69 [5]
+                    0.00 (Postsolve)
+                        MIP    time [calls] = 0.00 [1]
+                        subMIP time [calls] = 0.00 [5]
+  Max sub-MIP depth 2
+  Nodes             1
+  Repair LPs        0
+  LP iterations     32508
+                    0 (strong br.)
+                    7876 (separation)
+                    23765 (heuristics)
